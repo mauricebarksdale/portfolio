@@ -1,5 +1,3 @@
-import { ReactOriginal  } from 'devicons-react'
- 
 export default function Page() {
   return (
     <section>
